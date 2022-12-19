@@ -30,10 +30,10 @@
 </br>
 
 ## Education
-- Appple Developer Academy @ POSTECH (2022.03-2022.12)
-- Université Jean Moulin (Lyon III) (2020.1~2020.4)
+- [Appple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/en/) (2022.03-2022.12)
+- [Université Jean Moulin (Lyon III)](https://www.univ-lyon3.fr/accueil-en) (2020.1~2020.4)
   - DEUF (Diplôme d'Etudes Universitaires Françaises) Exchange Program (French Course)
-- 인하대학교 (2016.03 - 2022.02)
+- [인하대학교 (Inha University)](https://www.inha.ac.kr/) (2016.03 - 2022.02)
   - 주전공: 프랑스언어문화학
   - 복수전공: 문화콘텐츠문화경영학
   - 연계전공: 소프트웨어융합공학
