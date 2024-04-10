@@ -28,7 +28,7 @@
 - [Université Jean Moulin (Lyon III)](https://www.univ-lyon3.fr/accueil-en) (2020.1~2020.4)
   - DEUF (Diplôme d'Etudes Universitaires Françaises) Exchange Program (French Course)
 - [인하대학교 (Inha University)](https://www.inha.ac.kr/) (2016.03 - 2022.02)
-  - 소프트웨어융합공학 / 프랑스언어문화학 / 문화콘텐츠문화경영학
+  - 소프트웨어융합공학, 프랑스언어문화학
 </br>
 
 ## Community
