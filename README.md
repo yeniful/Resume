@@ -1,41 +1,39 @@
 ## Profile
 ```
-함께 자라기 함께 잘하기
+Bridging People and Technlolgy ✨
+기술과 사람의 연결에 관심이 많은 개발자
 ```
-- 이름: 황예은 (Yeeun Hwang, Yeni)
-- Mail: yeniful@icloud.com
-- Blog: [yeniful.me](yeniful.me)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yeeun-hwang-9a00ba1b8/)
-</br>
+### YENI (@yeniful) 
+![iOS_Dveloper](https://img.shields.io/badge/iOS_App_Developer-000000?style=flat-square&logo=apple&logoColor=white)   
 
-## Co-Projects
-- [오르락 (OrrRock)](https://github.com/DeveloperAcademy-POSTECH/MacC-TEAM-8bit) (2022.10~12)
-  - 볼더링 영상 기록과 루트파인딩을 도와주는 앱
-  - iOS, UIKit, SwiftUI, AVKit, PhotosUI
-- [플렉 (PLREQ)](https://github.com/PLREQ/PLREQ) (2022.10~2022.12)
-  - 현재 재생되는 음악들을 플레이리스트로 만들어 스트리밍 플랫폼으로 내보내주는 앱
-  - iOS, UIKit, ShazamKit, MapKit
-- [역전할맵 (Halmap)](https://github.com/Gwamegis/Halmap) (애플 개발자 아카데미 한글톤)
-  - 야구 팬, 일반인 모두 즐길 수 있는 야구 응원가 앱
-  - iOS, SwiftUI, AVFoundation, Firebase
-- [꼬옥 (Kko-okk)](https://github.com/kko-okk/kko_okk) (2022.6~7)
-  - 아이와 부모가 함께 약속을 만들고 지켜나갈 수 있도록 돕는 iPad 앱
-  - PadOS, SwiftUI, CoreData
-</br>
+### Contact & Social
+[![Mail](https://img.shields.io/badge/Mail-yeniful@icloud.com-3693F3?style=flat-square&logo=iCloud&logoColor=white)](yeniful@icloud.com)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yeni%20Hwang-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeeun-hwang-9a00ba1b8/)
 
-## Education
-- [Appple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/en/) (2022.03-2022.12)
-- [Université Jean Moulin (Lyon III)](https://www.univ-lyon3.fr/accueil-en) (2020.1~2020.4)
-  - DEUF (Diplôme d'Etudes Universitaires Françaises) Exchange Program (French Course)
-- [인하대학교 (Inha University)](https://www.inha.ac.kr/) (2016.03 - 2022.02)
-  - 소프트웨어융합공학, 프랑스언어문화학
-</br>
+<!-- #### Languages and Tools -->
+### Interests
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)   
 
-## Community
-- [AsyncSwift](https://asyncswift.org/) (2022.07 ~ )
-  - 애플 생태계 커뮤니티 AsyncSwift Organizer
-  - iOS 기술 Seminar, Conference 기획 및 운영
-- [KWDC](https://asyncswift.org/) (2023.04 ~ )
-  - 애플 생태계 컨퍼런스 KWDC Organizer
-  - Conference 기획 및 운영
-</br>
+### Work Experience
+|Description|Duration|
+|:---:|:---:|
+|Associate Tech Mentor, Apple Developer Academy @ POSTECH|Jan. 2024 - Jan. 2025|
+|Hadoop, Spark Course - Teaching Assistant<br>Statistics Training Institute, Statistics Korea (통계청 통계교육원) |May. 2021 - Jun. 2021|  
+
+### Activities
+|Description|Duration|
+|:---:|:---:|
+|Speaker, [Let's Swift](https://letswift.kr/2024/)|Nov. 2024|
+|iOS Tech Conference Organizer, [KWDC](https://asyncswift.org/)|Apr. 2023 - now|
+|iOS Tech Conference Organizer, [AsyncSwift](https://asyncswift.org/)|Jul. 2022 - now|
+
+
+### Education
+|Description|Duration|
+|:---:|:---:|
+|Junior Learner (2022 Cohort), [Appple Developer Academy @ POSTECH](https://developeracademy.postech.ac.kr/en/)|Mar. 2022 - Dec. 2022|
+|소프트웨어융합공학 & 프랑스언어문화학, [인하대학교 (Inha University)](https://www.inha.ac.kr/)<br>(Software Convergence Engineering & French Culture and Literature)|Mar. 2016 - Feb. 2022|
+|Exchange Student, [Université Jean Moulin (Lyon III)](https://www.univ-lyon3.fr/accueil-en) <br>DEUF (Diplôme d'Etudes Universitaires Françaises)|Jan. 2020 - Apr. 2020|  
+
